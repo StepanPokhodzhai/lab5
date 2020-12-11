@@ -180,7 +180,7 @@ iframe {
 	width: 40px;
 	height: 40px;
 	border-radius: 50%;
-	background: rgba(0,0,0,.7);
+	background: rgba(13, 128, 182, 0.7);
 }
 .owl-carousel .owl-nav button.owl-next:focus,
 .owl-carousel .owl-nav button.owl-prev:focus {
